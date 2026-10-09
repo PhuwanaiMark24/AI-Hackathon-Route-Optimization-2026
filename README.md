@@ -4,8 +4,6 @@
 
 repo นี้รวมงานทุก Mission ของเรา ตั้งแต่เล่นเกมจำลองวิเคราะห์เส้นทาง เขียน Solver ที่ใช้ได้กับโจทย์ CVRP ทุกไฟล์ ไปจนถึงเคสส่งคอนกรีตผสมเสร็จของ SCG-CPAC ที่ต้องส่งให้ทันภายใน 90 นาที
 
-▶️ **คลิปอธิบายงาน:** [ดูบน YouTube](https://www.youtube.com/watch?v=PIdKXsvkfu0)
-
 ---
 
 ## ภาพรวม
@@ -15,7 +13,7 @@ repo นี้รวมงานทุก Mission ของเรา ตั้�
 | 1 | Micro-Credential วิเคราะห์และปรับปรุงเส้นทางผ่านเกมจำลอง | ผ่าน 7 จาก 8 ส่วน | [`Micro_Credential`](Micro_Credential) |
 | 2 | Solver แบบทั่วไป ทดสอบกับ Benchmark 3 ชุด | Gap 0.74% ถึง 12.23% | [`Benchmark_and_Solver`](Benchmark_and_Solver) |
 | 3 | เคสที่ทีมสร้างเอง: ส่งคอนกรีตผสมเสร็จ SCG-CPAC | 247 กม. เท่ากับค่าที่ดีที่สุด | [`Benchmark_and_Solver`](Benchmark_and_Solver) |
-| 4 | อัดคลิปอธิบาย Mission 2 และ 3 | อัปโหลดขึ้น YouTube แล้ว | ลิงก์ด้านบน |
+| 4 | อัดคลิปอธิบาย Mission 2 และ 3 | อัปโหลดขึ้น YouTube แล้ว | [ดูบน YouTube](https://www.youtube.com/watch?v=PIdKXsvkfu0) |
 
 ---
 
