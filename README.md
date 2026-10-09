@@ -93,6 +93,7 @@ P-n40-k5 ห่างจากค่า Optimal มากที่สุด เ�
 ## เข้ารอบ 25 ทีมสุดท้าย
 
 ทีมเราผ่านเข้ารอบ 25 ทีมสุดท้ายในระดับอุดมศึกษา ผลงานที่เราส่งคือ Solver ที่ไม่ฝังคำตอบ ผล Benchmark ที่ใครก็รันซ้ำเองได้ เคส SCG-CPAC ที่ต่อยอดจากโค้ดเดิม และหลักฐาน Micro-Credential
+<img width="1672" height="941" alt="169190" src="https://github.com/user-attachments/assets/ae2d9dac-ac73-48ae-9b2d-edc13f96a7a4" />
 
 ---
 
