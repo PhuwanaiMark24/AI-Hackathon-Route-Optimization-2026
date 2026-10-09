@@ -13,7 +13,6 @@
 - เคสที่ทีมสร้างเองด้านการส่งคอนกรีตผสมเสร็จของ SCG-CPAC: ระยะทางรวม **247 กม.** **สั้นกว่า 16.6%** เมื่อเทียบกับ Nearest Neighbor และทุกการส่งมอบอยู่ภายในเวลาความสด 90 นาที
 - 🎬 [วิดีโอสาธิต](https://www.youtube.com/watch?v=PIdKXsvkfu0&t=3s) · 💻 [Repo](https://github.com/PhuwanaiMark24/AI-Hackathon-Route-Optimization-2026)
 
-![ผลลัพธ์ CPAC](https://raw.githubusercontent.com/<your-username>/ai-for-routing-cvrp/main/results/evidence/Evidence_CPAC-n16-k8-fresh.png)
 ![ผลลัพธ์ CPAC](https://github.com/PhuwanaiMark24/AI-Hackathon-Route-Optimization-2026/Benchmark_and_Solver/data_Self-created_Case/Evidence_CPAC-n16-k8-fresh)
 
 ---
