@@ -3,7 +3,7 @@
 หลักฐานการส่งงานสำหรับ Micro-Credential บนแพลตฟอร์ม **4LifelongLearning**
 หัวข้อ: *การวิเคราะห์และปรับปรุงการจัดเส้นทางยานพาหนะด้วยอัลกอริทึมเชิงฮิวริสติกผ่านเกมจำลองสถานการณ์*
 
-📄 **เอกสารหลักฐานฉบับเต็ม (15 หน้า):** [`evidence/micro_credential_evidence.pdf`](evidence/micro_credential_evidence.pdf)
+📄 **เอกสารหลักฐานฉบับเต็ม (15 หน้า):** [[`evidence/micro_credential_evidence.pdf`](evidence/micro_credential_evidence.pdf)](https://github.com/PhuwanaiMark24/AI-Hackathon-Route-Optimization-2026/blob/main/Micro_Credential/micro_credential_evidence.pdf)
 
 ---
 
